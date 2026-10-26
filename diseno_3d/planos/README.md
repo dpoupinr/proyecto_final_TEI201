@@ -1,4 +1,7 @@
-# Planos Técnicos
+<img width="1027" height="546" alt="Captura de pantalla 2026-10-26 115534" src="https://github.com/user-attachments/assets/c949966a-4608-4f4a-abe9-44e4c3c70132" /># Planos Técnicos
+![Uploading Captura de pantalla 2026-10<img width="1141" height="667" alt="Captura de pantalla 2026-10-26 115507" src="https://github.com/user-attachments/assets/b69707c3-8f4d-4066-97e4-4e359990eda9" />
+-26 115534.png…]()
+<img width="915" height="460" alt="Captura de pantalla 2026-10-26 115548" src="https://github.com/user-attachments/assets/5c80d7be-9e33-42dd-b231-3d9e6d1e67c5" />
 
 ## Planos Requeridos
 
