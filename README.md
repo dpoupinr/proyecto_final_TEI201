@@ -15,9 +15,9 @@ En las zonas rurales de la Región Metropolitana muchas familias no tienen acces
 Para desarrollar el sistema estamos usando una placa ESP32 con WiFi y relé integrado, que funciona como el cerebro del proyecto, junto con un sensor flotante P35 instalado dentro del estanque. Cuando el agua llega al punto donde está el sensor, este envía una señal a la ESP32, que activa o desactiva la bomba a través del relé. Al mismo tiempo, la placa envía por WiFi una notificación al teléfono del usuario indicando el estado de la bomba (encendida o apagada). Además, desde el teléfono el usuario podrá ver información en tiempo real sobre qué tan lleno está el estanque y revisar estadísticas de uso del agua para analizar su consumo. Por ejemplo, podrá ver qué días de la semana y en qué horarios se usa más agua, cuántos litros se consumen al día, a la semana y al mes, cuántas veces se enciende la bomba por día y cuánto tiempo funciona, y comparar el consumo entre semanas. El sistema también podrá generar alertas ante situaciones anormales: si la bomba funciona más tiempo de lo normal, lo que podría indicar que el pozo está seco o que hay una falla, o si hay consumo durante la noche, lo que podría indicar una fuga. Con esta información, las familias podrán tomar mejores decisiones sobre cómo usan el agua y detectar problemas a tiempo.
 
 ### Estado del Proyecto
-- **Versión actual:** v3.0
-- **Última actualización:** [Fecha]
-- **Estado:** Prototipo final
+- **Versión actual:** v1.0
+- **Última actualización:** 15 Oct
+- **Estado:** Primer Prototipo
 
 ---
 
@@ -36,9 +36,9 @@ Para desarrollar el sistema estamos usando una placa ESP32 con WiFi y relé inte
 ##  Inicio Rápido
 
 ### Requisitos Previos
-- Arduino IDE 2.x
-- Fusion 360
-- [Otras herramientas necesarias]
+- Placa ESP32 WI-FI Uai MOD
+- Tinker Cad
+- Sensor Flotador P35
 
 ### Instalación
 1. Clonar el repositorio
