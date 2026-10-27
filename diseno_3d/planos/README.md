@@ -15,6 +15,14 @@ Superior con tapa
   Trasera:
    <img width="2560" height="1440" alt="Screenshot 2026-10-27 at 7 26 01 PM" src="https://github.com/user-attachments/assets/5c99bacf-a8bd-41b3-95a2-33a9bad3294a" />
 
+Esqumas:
+Especificaciones de Componentes electricos/medidas de Modelo 3d
+<img width="2268" height="4032" alt="IMG_6756" src="https://github.com/user-attachments/assets/cac40b2e-70c6-40a8-bea8-72d9a2a8d9c1" />
+
+<img width="2268" height="4032" alt="IMG_6755" src="https://github.com/user-attachments/assets/2211ac2e-522a-4980-8d0b-519acca06316" />
+
+
+
 
 ## Planos Requeridos
 
