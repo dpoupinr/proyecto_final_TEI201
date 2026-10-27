@@ -1,7 +1,20 @@
-<img width="1027" height="546" alt="Captura de pantalla 2026-10-26 115534" src="https://github.com/user-attachments/assets/c949966a-4608-4f4a-abe9-44e4c3c70132" /># Planos Técnicos
-![Uploading Captura de pantalla 2026-10<img width="1141" height="667" alt="Captura de pantalla 2026-10-26 115507" src="https://github.com/user-attachments/assets/b69707c3-8f4d-4066-97e4-4e359990eda9" />
--26 115534.png…]()
-<img width="915" height="460" alt="Captura de pantalla 2026-10-26 115548" src="https://github.com/user-attachments/assets/5c80d7be-9e33-42dd-b231-3d9e6d1e67c5" />
+ Vistas principales 
+ frontal:
+ <img width="2560" height="1440" alt="Screenshot 2026-10-27 at 7 24 25 PM" src="https://github.com/user-attachments/assets/4f6e3ef2-3655-4212-91ca-ecd884f5a66a" />
+
+
+lateral:
+<img width="2560" height="1440" alt="Screenshot 2026-10-27 at 7 25 01 PM" src="https://github.com/user-attachments/assets/778e4588-3b93-4930-b836-4ffce275b9d1" />
+ 
+superior
+  <img width="2560" height="1440" alt="Screenshot 2026-10-27 at 7 25 23 PM" src="https://github.com/user-attachments/assets/ee962198-6c52-4032-af4e-3ea9aad9e648" />
+  
+Superior con tapa 
+  <img width="2560" height="1440" alt="Screenshot 2026-10-27 at 7 26 40 PM" src="https://github.com/user-attachments/assets/d9128e40-8051-427f-9219-7f2b393426cf" />
+
+  Trasera:
+   <img width="2560" height="1440" alt="Screenshot 2026-10-27 at 7 26 01 PM" src="https://github.com/user-attachments/assets/5c99bacf-a8bd-41b3-95a2-33a9bad3294a" />
+
 
 ## Planos Requeridos
 
